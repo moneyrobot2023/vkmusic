@@ -1,4 +1,4 @@
-# vktotg
+# vk_music_downloader 2024
 Sends all your vk.com music to telegram channel
 
 # Screenshot
